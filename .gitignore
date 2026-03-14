@@ -1,0 +1,32 @@
+# -----------------------------
+# Security & Environment Variables
+# -----------------------------
+.env
+.env.local
+*.pem
+
+# -----------------------------
+# Python / Backend
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# -----------------------------
+# Node.js / React Frontend 
+# -----------------------------
+node_modules/
+dist/
+build/
+.npm/
+
+# -----------------------------
+# OS / Editor Files
+# -----------------------------
+.DS_Store
+.vscode/
+.idea/
