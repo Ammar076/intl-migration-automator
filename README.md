@@ -34,6 +34,7 @@ NexusMigrate is an autonomous AI swarm that turns the stress of international re
 |   `-- main.py              # FastAPI application entrypoint
 |--assets/
 |-- requirements.txt
+|--.env.example
 `-- README.md
 ```
 
