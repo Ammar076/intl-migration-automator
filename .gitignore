@@ -4,6 +4,8 @@
 .env
 .env.local
 *.pem
+*.json
+!package.json
 
 # -----------------------------
 # Python / Backend
